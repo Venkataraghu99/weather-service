@@ -1,4 +1,4 @@
-module github.com/yourusername/weather-service
+module github.com/Venkataraghu99/weather-service
 
 go 1.21
 
